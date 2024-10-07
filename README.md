@@ -1,6 +1,7 @@
 # twitch_plus
 Twitch+: A Personalized Twitch Resource Recommendation Engine  
 Hi repo viewers! Welcome to the Twitch+ project!   
+This app recorganize the Twitch resources and present you with a brand new UX! You can not only view the hot, trending videos and streams but also enjoyed personlized resource recommendation, just for you!  
 In this project, I  
 •	Designed and developed a full-stack Spring Boot application with web interface created by React, enabling users to search Twitch resources and receive personalized recommendations, enhancing user engagement by 25%.  
 •	Hosted MySQL database on AWS RDS, performing efficient CRUD operations with Spring Data JDBC.  
